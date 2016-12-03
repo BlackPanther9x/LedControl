@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ardino Led Control</string>
+    <string name="settings">Cài đặt</string>
+    <string name="paired_devices">Các thiết bị ghép cặp</string>
+    <string name="no_connection">Không có kết nối</string>
+    <string name="found_devices">Thiết bị khả dụng</string>
+    <string name="no_device">Không có thiết bị</string>
+    <string name="led_control">LED CONTROL</string>
+    <string name="_false">Thất bại</string>
+    <string name="input">Nhập:</string>
+    <string name="send">Gửi</string>
+    <string name="output">Output:</string>
+    <string name="led1">LED1</string>
+    <string name="led2">LED2</string>
+    <string name="led3">LED3</string>
+    <string name="led4">LED4</string>
+    <string name="disconnect">Ngắt kết nối</string>
+    <string name="ma_nhap_khong_dung">Mã nhập không đúng !</string>
+    <string name="connect_successful">Kết nối thành công !</string>
+    <string name="c">*C</string>
+    <string name="brightness_default">Độ sáng : 100 %</string>
+
+
+    <string-array name="lenh">
+        <item>ON</item>
+        <item>OFF</item>
+    </string-array>
+
+</resources>

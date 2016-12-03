@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="colorFoundDevice">#C5E1A5</color>
+
+
+
+    <color name="led1On">#EF5350</color>
+    <color name="led1Off">#FFCDD2</color>
+    <color name="led2On">#FFCA28</color>
+    <color name="led2Off">#FFECB3</color>
+    <color name="led3On">#42A5F5</color>
+    <color name="led3Off">#BBDEFB</color>
+    <color name="led4On">#9CCC65</color>
+    <color name="led4Off">#DCEDC8</color>
+</resources>
